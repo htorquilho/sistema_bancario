@@ -1,2 +1,2 @@
-# sistema_bancario
+# PyBank
 Sistema Bancário feito em Python
